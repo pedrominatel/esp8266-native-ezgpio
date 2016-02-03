@@ -1,4 +1,4 @@
-# ESP8266 ezio -Another way to use the SKD GPIO driver
+# ESP8266 ezio -Another way to use the SDK GPIO driver
 
 A easy to use driver for GPIO writen in native C for the ESP8266
 
